@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Observer Pattern README</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h2 { color: #333; }
-        pre { background: #f4f4f4; padding: 10px; border-radius: 5px; }
-    </style>
-</head>
-<body>
-    <h2>Output Verified</h2>
+ <h2>Output Verified</h2>
     <pre>
 First state change: 15
 Hex String: F
@@ -79,5 +66,3 @@ Binary String: 1010
 
   <h3>Demo Class</h3>
   <p>The <code>Demo</code> class initializes the system, registers observers, and triggers events to demonstrate how the pattern works.</p>
-</body>
-</html>
